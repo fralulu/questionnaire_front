@@ -30,3 +30,9 @@ body {
 .el-submenu__title {
   font-size: 1rem;
 }
+
+.custom-input input{
+  border: none;
+  display: block;
+  outline: none;
+}

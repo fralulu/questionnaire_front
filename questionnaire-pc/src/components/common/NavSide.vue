@@ -48,11 +48,11 @@
               title: '我的问卷',
               subs: [
                 {
-                  index: 'questionnaire/list',
+                  index: '/home/questionnaire/list',
                   title: '问卷列表'
                 },
                 {
-                  index: 'questionnaire/add',
+                  index: '/home/questionnaire/edit',
                   title: '创建问卷'
                 }
               ]
